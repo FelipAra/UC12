@@ -1,0 +1,12 @@
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.deps.json
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.dll
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.pdb
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.dll
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\refint\CalculadoraImc.dll
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.pdb
+C:\Users\Felipe\Documents\Projeto\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\ref\CalculadoraImc.dll
